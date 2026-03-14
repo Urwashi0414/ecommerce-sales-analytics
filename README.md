@@ -22,6 +22,10 @@ The Power BI dashboard highlights:
 - Regional sales distribution
 - Top 10 revenue-generating products
 
+## Power BI Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
+
 ## Project Files
 - `notebooks/sales_analysis.ipynb` – Python analysis
 - `dashboard/Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard
